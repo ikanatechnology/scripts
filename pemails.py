@@ -1,6 +1,5 @@
 #!/usr/bin/evn python
 # Pull emails out of file
-# Work in progress
 # By: Spencer Heckathorn
 import re
 
